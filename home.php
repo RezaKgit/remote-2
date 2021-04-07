@@ -17,5 +17,8 @@
         <li>Apel</li>
         <li>Jeruk</li>
     </ul>
+    <footer>
+        Copy Right 2021
+    </footer>
 </body>
 </html>
