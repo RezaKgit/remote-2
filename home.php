@@ -17,6 +17,7 @@
         <li>Apel</li>
         <li>Jeruk</li>
     </ul>
+    <br>
     <footer>
         Copy Right 2021
     </footer>
